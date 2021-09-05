@@ -1,6 +1,6 @@
 #page d'accueil
 <?php
 
-echo "hello";
+echo "hello !!";
 
 ?>
